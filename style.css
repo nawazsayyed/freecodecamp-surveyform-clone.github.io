@@ -1,0 +1,46 @@
+body {
+   background-color: #1b1b32;
+   
+}
+
+.form-header {
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.container {
+    background-color: rgb(60 54 108 / 52%);
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.form-item {
+    margin-bottom: 10px;
+}
+
+.input-item, select {
+    
+    width: 480px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 8px 0;
+    
+}
+
+input[type="submit" i] {
+    width: 498px;
+    background-color: #37af65;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 10px;
+    border: #ffffff;
+}
+
+label {
+    color: #ffffff;
+
+}
